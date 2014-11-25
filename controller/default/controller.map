@@ -1,0 +1,842 @@
+Archive member included because of file (symbol)
+
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+                              controller.o (TC0_ConfigClockSource)
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+                              controller.o (AC_Enable)
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+                              controller.o (ADC_CalibrationValues_Load)
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+                              controller.o (CLKSYS_Main_ClockSource_Select)
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+                              controller.o (DAC_SingleChannel_Enable)
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+                              controller.o (EVSYS_SetEventSource)
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+                              controller.o (PMIC_SetVectorLocationToApplication)
+F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+                              display_device_spi.o (SPI_MasterInit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_mulsi3.o)
+                              controller.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_divmodhi4.o)
+                              F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o) (__divmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodsi4.o)
+                              controller.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_copy_data.o)
+                              controller.o (__do_copy_data)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_clear_bss.o)
+                              controller.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodhi4.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+                              controller.o (sprintf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o) (vfprintf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (strnlen_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (strnlen)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (fputc)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_prologue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o) (__prologue_saves__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_epilogue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+dutyA               0x1               controller.o
+energy_sum          0xc               controller.o
+string              0x11              controller.o
+debug2              0x2               controller.o
+debug4              0x2               controller.o
+dutyB               0x1               controller.o
+display_spiMaster   0x7               display_device_spi.o
+debug1              0x2               controller.o
+dutyC               0x1               controller.o
+energy_history      0x102             controller.o
+debug3              0x2               controller.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+LOAD controller.o
+LOAD display.o
+LOAD display_device_spi.o
+LOAD F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x22c2
+ *(.vectors)
+ .vectors       0x00000000      0x178 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000178                . = ALIGN (0x2)
+                0x00000178                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000178        0x0 linker stubs
+ *(.trampolines*)
+                0x00000178                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000178                __ctors_start = .
+ *(.ctors)
+                0x00000178                __ctors_end = .
+                0x00000178                __dtors_start = .
+ *(.dtors)
+                0x00000178                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000178        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+                0x00000178                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000178       0x14 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000018c       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_copy_data.o)
+                0x0000018c                __do_copy_data
+ .init4         0x000001a2       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_clear_bss.o)
+                0x000001a2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001b2        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+ *(.init9)
+ *(.text)
+ .text          0x000001ba        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+                0x000001ba                __vector_38
+                0x000001ba                __vector_22
+                0x000001ba                __vector_63
+                0x000001ba                __vector_28
+                0x000001ba                __vector_67
+                0x000001ba                __vector_1
+                0x000001ba                __vector_32
+                0x000001ba                __vector_75
+                0x000001ba                __vector_91
+                0x000001ba                __vector_34
+                0x000001ba                __vector_62
+                0x000001ba                __vector_24
+                0x000001ba                __vector_12
+                0x000001ba                __vector_55
+                0x000001ba                __vector_81
+                0x000001ba                __vector_90
+                0x000001ba                __vector_46
+                0x000001ba                __bad_interrupt
+                0x000001ba                __vector_72
+                0x000001ba                __vector_6
+                0x000001ba                __vector_31
+                0x000001ba                __vector_92
+                0x000001ba                __vector_35
+                0x000001ba                __vector_78
+                0x000001ba                __vector_74
+                0x000001ba                __vector_39
+                0x000001ba                __vector_3
+                0x000001ba                __vector_23
+                0x000001ba                __vector_30
+                0x000001ba                __vector_73
+                0x000001ba                __vector_45
+                0x000001ba                __vector_25
+                0x000001ba                __vector_93
+                0x000001ba                __vector_61
+                0x000001ba                __vector_11
+                0x000001ba                __vector_54
+                0x000001ba                __vector_13
+                0x000001ba                __vector_17
+                0x000001ba                __vector_19
+                0x000001ba                __vector_56
+                0x000001ba                __vector_7
+                0x000001ba                __vector_41
+                0x000001ba                __vector_86
+                0x000001ba                __vector_64
+                0x000001ba                __vector_88
+                0x000001ba                __vector_43
+                0x000001ba                __vector_27
+                0x000001ba                __vector_5
+                0x000001ba                __vector_33
+                0x000001ba                __vector_76
+                0x000001ba                __vector_47
+                0x000001ba                __vector_37
+                0x000001ba                __vector_89
+                0x000001ba                __vector_4
+                0x000001ba                __vector_44
+                0x000001ba                __vector_82
+                0x000001ba                __vector_9
+                0x000001ba                __vector_2
+                0x000001ba                __vector_21
+                0x000001ba                __vector_15
+                0x000001ba                __vector_66
+                0x000001ba                __vector_36
+                0x000001ba                __vector_79
+                0x000001ba                __vector_58
+                0x000001ba                __vector_70
+                0x000001ba                __vector_83
+                0x000001ba                __vector_29
+                0x000001ba                __vector_60
+                0x000001ba                __vector_40
+                0x000001ba                __vector_85
+                0x000001ba                __vector_8
+                0x000001ba                __vector_26
+                0x000001ba                __vector_48
+                0x000001ba                __vector_80
+                0x000001ba                __vector_14
+                0x000001ba                __vector_84
+                0x000001ba                __vector_57
+                0x000001ba                __vector_53
+                0x000001ba                __vector_10
+                0x000001ba                __vector_50
+                0x000001ba                __vector_16
+                0x000001ba                __vector_59
+                0x000001ba                __vector_18
+                0x000001ba                __vector_42
+                0x000001ba                __vector_87
+                0x000001ba                __vector_65
+ .text          0x000001be     0x1020 controller.o
+                0x00000396                initializeDAC
+                0x000006b6                initializeMCU
+                0x000006d0                __vector_71
+                0x000003b0                initializeCaptureTimer
+                0x000002a2                __vector_77
+                0x00000534                __vector_69
+                0x0000066c                initializeUITimer
+                0x000005bc                __vector_68
+                0x000001be                setDutyCycles
+                0x00000698                enableInterrupts
+                0x00000300                __vector_49
+                0x00000624                initializePhaseTimer
+                0x000004c0                initializePhaseComparator
+                0x00000332                __vector_52
+                0x00000d1c                main
+                0x00000406                initializeADC
+                0x00000364                __vector_51
+                0x000003dc                initializeSampleTimer
+                0x00000bb8                error
+                0x00000bec                printDutyCycles
+                0x00000c52                findPhasePeriod
+                0x00000bb2                debugFilterTest
+                0x00000d92                __vector_20
+ .text          0x000011de       0xe8 display.o
+                0x000011de                display_printStringLen
+                0x0000123a                display_printChar
+                0x00001240                display_moveCursor
+                0x0000121a                display_printString
+                0x00001258                display_init
+                0x00001248                display_returnHome
+                0x00001250                display_clear
+ .text          0x000012c6       0xd4 display_device_spi.o
+                0x000012c6                display_initDevice
+                0x0000136e                display_sendCommand
+                0x00001342                display_sendData
+ .text          0x0000139a      0x114 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+                0x00001462                TC0_SetCCBIntLevel
+                0x0000141a                TC0_SetOverflowIntLevel
+                0x00001426                TC1_SetOverflowIntLevel
+                0x00001432                TC0_SetErrorIntLevel
+                0x0000140c                TC1_DisableCCChannels
+                0x00001456                TC1_SetCCAIntLevel
+                0x000013be                TC1_ConfigWGM
+                0x0000144a                TC0_SetCCAIntLevel
+                0x000013b2                TC0_ConfigWGM
+                0x00001492                TC0_Reset
+                0x000013f2                TC1_EnableCCChannels
+                0x0000147a                TC0_SetCCCIntLevel
+                0x000013fe                TC0_DisableCCChannels
+                0x000013d8                TC1_ConfigInputCapture
+                0x000014a0                TC1_Reset
+                0x000013a6                TC1_ConfigClockSource
+                0x000013e6                TC0_EnableCCChannels
+                0x0000139a                TC0_ConfigClockSource
+                0x00001486                TC0_SetCCDIntLevel
+                0x0000143e                TC1_SetErrorIntLevel
+                0x000013ca                TC0_ConfigInputCapture
+                0x0000146e                TC1_SetCCBIntLevel
+ .text          0x000014ae      0x11c F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+                0x000014dc                AC_Disable
+                0x00001574                AC_DisableComparator0_Output
+                0x000014f2                AC_ConfigInterrupt
+                0x00001528                AC_ConfigMUX
+                0x00001544                AC_ConfigVoltageScaler
+                0x0000156a                AC_EnableComparator0_Output
+                0x0000157e                AC_GetComparatorState
+                0x000014ae                AC_Enable
+                0x00001562                AC_DisableWindowMode
+                0x00001552                AC_EnableWindowMode
+                0x0000150e                AC_ConfigHysteresis
+                0x00001598                AC_GetWindowState
+                0x000015bc                AC_WaitForWindow_Blocking
+                0x000015a0                AC_WaitForComparator_Blocking
+ .text          0x000015ca      0x182 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+                0x00001660                ADC_ResultCh_GetHighByte
+                0x0000167c                ADC_Wait_32MHz
+                0x00001738                SP_ReadCalibrationByte
+                0x00001656                ADC_ResultCh_GetLowByte
+                0x0000161e                ADC_ResultCh_GetWord_Unsigned
+                0x000016e2                ADC_Offset_Get_Signed
+                0x00001648                ADC_ResultCh_GetWord
+                0x00001630                ADC_ResultCh_GetWord_Signed
+                0x000015ca                ADC_CalibrationValues_Load
+                0x0000166a                ADC_Wait_8MHz
+                0x00001690                ADC_Offset_Get_Unsigned
+ .text          0x0000174c      0x178 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+                0x00001864                CLKSYS_XOSC_FailureDetection_Enable
+                0x00001776                CLKSYS_XOSC_Config
+                0x0000174c                CCPWrite
+                0x000017dc                CLKSYS_Main_ClockSource_Select
+                0x00001826                CLKSYS_AutoCalibration_Enable
+                0x000017ac                CLKSYS_Prescalers_Config
+                0x00001798                CLKSYS_Disable
+                0x0000178c                CLKSYS_PLL_Config
+                0x00001816                CLKSYS_RTC_ClockSource_Enable
+                0x00001894                CLKSYS_Configuration_Lock
+ .text          0x000018c4       0x86 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+                0x00001904                DAC_Channel_Write
+                0x000018e0                DAC_DualChannel_Enable
+                0x000018c4                DAC_SingleChannel_Enable
+                0x00001916                DAC_Channel_DataEmpty
+                0x0000193a                DAC_EventAction_Set
+ .text          0x0000194a       0x6c F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+                0x000019ac                EVSYS_ManualTrigger
+                0x00001996                EVSYS_SetEventChannelFilter
+                0x0000194a                EVSYS_SetEventSource
+                0x00001960                EVSYS_SetEventChannelParameters
+ .text          0x000019b6       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+                0x000019b6                PMIC_SetVectorLocationToBoot
+                0x000019c6                PMIC_SetVectorLocationToApplication
+ .text          0x000019d6      0x268 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+                0x00001bb8                SPI_MasterTransceivePacket
+                0x00001b1a                SPI_MasterInterruptTransceivePacket
+                0x00001a9c                SPI_MasterInterruptHandler
+                0x00001a78                SPI_MasterCreateDataPacket
+                0x000019d6                SPI_MasterInit
+                0x00001b9e                SPI_MasterTransceiveByte
+                0x00001a3a                SPI_SlaveInit
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_mulsi3.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_divmodhi4.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_exit.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_copy_data.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_clear_bss.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_prologue.o)
+ .text          0x00001c3e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_epilogue.o)
+                0x00001c3e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00001c3e       0x3e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_mulsi3.o)
+                0x00001c3e                __mulsi3
+ .text.libgcc   0x00001c7c       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_divmodhi4.o)
+                0x00001c7c                __divmodhi4
+                0x00001c7c                _div
+ .text.libgcc   0x00001ca2       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodsi4.o)
+                0x00001ca2                __udivmodsi4
+ .text.libgcc   0x00001ce6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc   0x00001ce6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00001ce6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00001ce6       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodhi4.o)
+                0x00001ce6                __udivmodhi4
+ .text.avr-libc
+                0x00001d0e       0x48 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+                0x00001d0e                sprintf
+ .text.avr-libc
+                0x00001d56      0x3ba c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+                0x00001d56                vfprintf
+ .text.avr-libc
+                0x00002110       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+                0x00002110                strnlen_P
+ .text.avr-libc
+                0x00002126       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+                0x00002126                strnlen
+ .text.avr-libc
+                0x0000213c       0x58 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+                0x0000213c                fputc
+ .text.avr-libc
+                0x00002194       0xbc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+                0x00002194                __ultoa_invert
+ .text.libgcc   0x00002250       0x38 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_prologue.o)
+                0x00002250                __prologue_saves__
+ .text.libgcc   0x00002288       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_epilogue.o)
+                0x00002288                __epilogue_restores__
+                0x000022be                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000022be        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_exit.o)
+                0x000022be                exit
+                0x000022be                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000022be        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000022c2                _etext = .
+
+.data           0x00802000       0x2c load address 0x000022c2
+                0x00802000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+ .data          0x00802000       0x2b controller.o
+                0x00802029                phasePeriodMin
+ .data          0x0080202b        0x0 display.o
+ .data          0x0080202b        0x0 display_device_spi.o
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .data          0x0080202b        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_mulsi3.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_divmodhi4.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_exit.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_copy_data.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_clear_bss.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_prologue.o)
+ .data          0x0080202b        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_epilogue.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080202c                . = ALIGN (0x2)
+ *fill*         0x0080202b        0x1 00
+                0x0080202c                _edata = .
+                0x0080202c                PROVIDE (__data_end, .)
+
+.bss            0x0080202c      0x18a
+                0x0080202c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080202c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3/crtx32a4.o
+ .bss           0x0080202c       0x59 controller.o
+                0x0080203a                maxLevel
+                0x0080203c                lowband_x0
+                0x00802044                lowband_x2
+                0x00802050                lowband_y2
+                0x00802058                midband_x1
+                0x00802036                fSampleCaptured
+                0x0080207c                highband_y1
+                0x00802048                lowband_y0
+                0x00802070                highband_x1
+                0x00802064                midband_y1
+                0x00802084                historyIndex
+                0x00802038                ADC_offset
+                0x00802074                highband_x2
+                0x00802037                fCaptureBinFilled
+                0x00802054                midband_x0
+                0x00802035                fPhaseEnd
+                0x0080204c                lowband_y1
+                0x00802034                fPhaseBegin
+                0x00802060                midband_y0
+                0x00802078                highband_y0
+                0x00802068                midband_y2
+                0x00802040                lowband_x1
+                0x0080202c                msClock
+                0x0080206c                highband_x0
+                0x00802030                phasePeriod
+                0x00802032                phasePeriodLast
+                0x00802080                highband_y2
+                0x0080205c                midband_x2
+ .bss           0x00802085        0x0 display.o
+ .bss           0x00802085        0x0 display_device_spi.o
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .bss           0x00802085        0x0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_mulsi3.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_divmodhi4.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodsi4.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_exit.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_copy_data.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_clear_bss.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_udivmodhi4.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(sprintf.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(vfprintf_std.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen_P.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(strnlen.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(fputc.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avrxmega3\libc.a(ultoa_invert.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_prologue.o)
+ .bss           0x00802085        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avrxmega3\libgcc.a(_epilogue.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00802085      0x12a controller.o
+                0x00802085                dutyA
+                0x00802086                energy_sum
+                0x00802092                string
+                0x008020a3                debug2
+                0x008020a5                debug4
+                0x008020a7                dutyB
+                0x008020a8                debug1
+                0x008020aa                dutyC
+                0x008020ab                energy_history
+                0x008021ad                debug3
+ COMMON         0x008021af        0x7 display_device_spi.o
+                0x008021af                display_spiMaster
+                0x008021b6                PROVIDE (__bss_end, .)
+                0x000022c2                __data_load_start = LOADADDR (.data)
+                0x000022ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008021b6        0x0
+                0x008021b6                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008021b6                PROVIDE (__noinit_end, .)
+                0x008021b6                _end = .
+                0x008021b6                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x160
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 controller.o
+ .debug_aranges
+                0x00000020       0x20 display.o
+ .debug_aranges
+                0x00000040       0x20 display_device_spi.o
+ .debug_aranges
+                0x00000060       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .debug_aranges
+                0x00000080       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .debug_aranges
+                0x000000a0       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .debug_aranges
+                0x000000c0       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .debug_aranges
+                0x000000e0       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .debug_aranges
+                0x00000100       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .debug_aranges
+                0x00000120       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .debug_aranges
+                0x00000140       0x20 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+
+.debug_pubnames
+                0x00000000      0xd4e
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x403 controller.o
+ .debug_pubnames
+                0x00000403       0xac display.o
+ .debug_pubnames
+                0x000004af       0x6c display_device_spi.o
+ .debug_pubnames
+                0x0000051b      0x216 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .debug_pubnames
+                0x00000731      0x16c F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .debug_pubnames
+                0x0000089d      0x13b F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .debug_pubnames
+                0x000009d8      0x129 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .debug_pubnames
+                0x00000b01       0x92 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .debug_pubnames
+                0x00000b93       0x87 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .debug_pubnames
+                0x00000c1a       0x5b F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .debug_pubnames
+                0x00000c75       0xd9 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+
+.debug_info     0x00000000     0x6d53
+ *(.debug_info)
+ .debug_info    0x00000000     0x26dd controller.o
+ .debug_info    0x000026dd      0x266 display.o
+ .debug_info    0x00002943      0x546 display_device_spi.o
+ .debug_info    0x00002e89     0x1248 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .debug_info    0x000040d1      0x5cb F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .debug_info    0x0000469c      0xbfc F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .debug_info    0x00005298      0x64a F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .debug_info    0x000058e2      0x574 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .debug_info    0x00005e56      0x6b2 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .debug_info    0x00006508      0x10e F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .debug_info    0x00006616      0x73d F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x11ef
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2e2 controller.o
+ .debug_abbrev  0x000002e2      0x12b display.o
+ .debug_abbrev  0x0000040d      0x194 display_device_spi.o
+ .debug_abbrev  0x000005a1      0x165 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .debug_abbrev  0x00000706      0x180 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .debug_abbrev  0x00000886      0x2cc F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .debug_abbrev  0x00000b52      0x1e4 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .debug_abbrev  0x00000d36      0x161 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .debug_abbrev  0x00000e97       0xf5 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .debug_abbrev  0x00000f8c       0xb6 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .debug_abbrev  0x00001042      0x1ad F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+
+.debug_line     0x00000000     0x2108
+ *(.debug_line)
+ .debug_line    0x00000000      0x8dd controller.o
+ .debug_line    0x000008dd      0x25f display.o
+ .debug_line    0x00000b3c      0x28a display_device_spi.o
+ .debug_line    0x00000dc6      0x2e8 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .debug_line    0x000010ae      0x287 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .debug_line    0x00001335      0x3f3 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .debug_line    0x00001728      0x270 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .debug_line    0x00001998      0x189 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .debug_line    0x00001b21      0x172 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .debug_line    0x00001c93      0x11a F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .debug_line    0x00001dad      0x35b F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+
+.debug_frame    0x00000000      0x770
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x180 controller.o
+ .debug_frame   0x00000180       0x80 display.o
+ .debug_frame   0x00000200       0x40 display_device_spi.o
+ .debug_frame   0x00000240      0x170 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .debug_frame   0x000003b0       0xf0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .debug_frame   0x000004a0       0xc0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .debug_frame   0x00000560       0xb0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .debug_frame   0x00000610       0x60 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .debug_frame   0x00000670       0x50 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .debug_frame   0x000006c0       0x30 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+ .debug_frame   0x000006f0       0x80 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+
+.debug_str      0x00000000     0x3ffa
+ *(.debug_str)
+ .debug_str     0x00000000     0x239e controller.o
+                               0x2426 (size before relaxing)
+ .debug_str     0x0000239e       0xc4 display.o
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002462      0x318 display_device_spi.o
+                                0x4fd (size before relaxing)
+ .debug_str     0x0000277a      0x499 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+                                0xb8e (size before relaxing)
+ .debug_str     0x00002c13      0x290 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+                                0x607 (size before relaxing)
+ .debug_str     0x00002ea3      0x44a F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+                                0x7e7 (size before relaxing)
+ .debug_str     0x000032ed      0x52f F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+                                0x6b7 (size before relaxing)
+ .debug_str     0x0000381c      0x3a0 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+                                0x62c (size before relaxing)
+ .debug_str     0x00003bbc      0x2cb F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+                                0xf9f (size before relaxing)
+ .debug_str     0x00003e87       0x54 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(pmic_driver.o)
+                                0x148 (size before relaxing)
+ .debug_str     0x00003edb      0x11f F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+                                0x49e (size before relaxing)
+
+.debug_loc      0x00000000     0x1292
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x311 controller.o
+ .debug_loc     0x00000311      0x133 display.o
+ .debug_loc     0x00000444       0x54 display_device_spi.o
+ .debug_loc     0x00000498      0x370 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(TC_driver.o)
+ .debug_loc     0x00000808      0x27f F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(ac_driver.o)
+ .debug_loc     0x00000a87      0x2f8 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)
+ .debug_loc     0x00000d7f       0x6f F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(clksys_driver.o)
+ .debug_loc     0x00000dee       0xe6 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(dac_driver.o)
+ .debug_loc     0x00000ed4       0xd1 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(event_system_driver.o)
+ .debug_loc     0x00000fa5      0x2ed F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(spi_driver.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(controller.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0xa0
+ .debug_ranges  0x00000000       0x40 controller.o
+ .debug_ranges  0x00000040       0x60 F:\foxy-win\electronics\avr-studio\xmega-appnote-library\build-xmega32a4\libxmega-appnotes.a(adc_driver.o)

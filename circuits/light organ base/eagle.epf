@@ -1,0 +1,32 @@
+[Eagle]
+Version="05 06 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE/lbr/diode.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/led.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/pinhead.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/rcl.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/ref-packages.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/supply1.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/transistor.lbr"
+UsedLibrary="/Users/default/foxy/electronics/eagle/libraries/adam - ics.lbr"
+UsedLibrary="/Users/default/foxy/electronics/eagle/libraries/adam - mechanical.lbr"
+UsedLibrary="/Users/default/foxy/electronics/eagle/libraries/adam - passive.lbr"
+UsedLibrary="/Users/default/foxy/electronics/eagle/libraries/adam - transistors etc.lbr"
+UsedLibrary="/Users/default/foxy/electronics/eagle/libraries/xmega.lbr"
+UsedLibrary="/Users/default/foxy/electronics/eagle/libraries/adam - misc.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="45 66 1273 646"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
